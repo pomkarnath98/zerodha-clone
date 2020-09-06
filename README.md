@@ -1,1 +1,1 @@
-# zerodha-clone
+# A Clone of Zerodha Website
